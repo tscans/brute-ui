@@ -1,5 +1,5 @@
 <p align="center">
-<img src="monk.png" 
+<img src="https://i.imgur.com/HBsTW4X.png" 
         alt="Logo" 
         width="250" 
         height="250" 
