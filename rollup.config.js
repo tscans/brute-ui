@@ -23,7 +23,6 @@ export default [
         sourcemap: true,
       },
     ],
-    globals: { 'styled-components': 'styled' },
     plugins: [
       peerDepsExternal(),
       resolve(),
