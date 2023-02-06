@@ -1,3 +1,10 @@
+
+<img src="monk.png" 
+        alt="Logo" 
+        width="400" 
+        height="400" 
+        style="display: block; margin: 0 auto" />
+
 # Brute-UI
 
 Brute-UI is a React UI component library that embraces the neo-brutalist design movement. The library provides a set of high-quality components that are functional, minimalistic, and unapologetically raw in appearance. 
