@@ -1,9 +1,9 @@
 
 <img src="monk.png" 
         alt="Logo" 
-        width="400" 
-        height="400" 
-        style="display: block; margin: 0 auto" />
+        width="250" 
+        height="250" 
+        style="display: block; margin-left: auto; margin-right: auto;" />
 
 # Brute-UI
 
