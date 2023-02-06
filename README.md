@@ -1,9 +1,10 @@
-
+<p align="center">
 <img src="monk.png" 
         alt="Logo" 
         width="250" 
         height="250" 
         style="display: block; margin-left: auto; margin-right: auto;" />
+</p>
 
 # Brute-UI
 
